@@ -1,0 +1,9 @@
+Last		First	Middle	Course	Section
+Doe		John	A	BSCS	25001
+Corrs		Steve	B	BSCS	25001
+Emsy		Dan	C	BSIT	25002
+Smith		Peter	D	BSIT	25002
+Dee		Cedric	E	BSCS	25003
+Cornelio	Denie	F	BSCS	25003
+Rass		Simeon	G	BSIT	25004
+Navalny		Jhong	H	BSIT	25004
